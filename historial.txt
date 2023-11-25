@@ -1,0 +1,5 @@
+Refresco, Precio: $2.00, Fecha: 2023-11-25 15:05:36
+Refresco, Precio: $2.00, Fecha: 2023-11-25 15:15:03
+Galletas, Precio: $1.50, Fecha: 2023-11-25 15:20:19
+Refresco, Precio: $2.00, Fecha: 2023-11-25 15:25:25
+Refresco, Precio: $2.00, Fecha: 2023-11-25 15:30:41
